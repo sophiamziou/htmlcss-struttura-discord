@@ -34,3 +34,19 @@ header{
     width: 25%;
     border: 1px black dashed;
 }
+
+.blue-container{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pink-container{
+    border: 1px black dashed;
+    background-color: pink;
+    width: 50%;
+    height: 400px;
+}
