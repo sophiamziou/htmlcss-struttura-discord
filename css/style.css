@@ -50,3 +50,41 @@ header{
     width: 50%;
     height: 400px;
 }
+
+hr{
+    border: 2px solid lightblue;
+}
+
+.white-container{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+
+
+.row{
+    width: 70%;
+    height: 500px;
+    display: flex;
+}
+
+.blue-col{
+    width: 70%;
+    height: 499px;
+    background-color: lightblue;
+    border: 1px black dashed;
+}
+
+.pink-col{
+    width: 30%;
+    height: 499px;
+    background-color: pink;
+    border: 1px black dashed;
+}
+
+.grey-container{
+    width: 100%;
+    height: 600px;
+    background-color: grey;
+    justify-content: center;
+}
